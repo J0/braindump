@@ -3,7 +3,7 @@ title = "Vitess Deep Dive Session Two"
 author = ["Joel Lee"]
 tags = ["Vitess"]
 date = "2020-01-02"
-draft = true
+draft = false
 +++
 
 ## Filter handles both where and having {#filter-handles-both-where-and-having}
@@ -78,3 +78,5 @@ Number of itme count for each order. The query can be scattered because there is
 -   select a.col, b.col from a join b where b.id=a.id order by b.id
 
 As long as order by order matches the join order it's fine.
+
+See [Vitess Deep Dive Session One]({{<relref "vitess-deep-dive-session-one.md" >}})
