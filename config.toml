@@ -1,10 +1,10 @@
-baseURL = "https://braindump.jethro.dev/"
+baseURL = "https://joellee.netlify.app"
 languageCode = "en-us"
-title = "Jethro's Braindump"
+title = "Joel's Braindump"
 theme = "cortex"
 
 [params]
-email = "jethrokuan95@gmail.com"
+email = "lee.yi.jie.joel@gmail.com"
 footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
 
 [markup]
