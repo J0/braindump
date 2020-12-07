@@ -79,4 +79,4 @@ Number of itme count for each order. The query can be scattered because there is
 
 As long as order by order matches the join order it's fine.
 
-See [Vitess Deep Dive Session One]({{<relref "vitess-deep-dive-session-one.md" >}})
+See [Vitess Deep Dive Session One]({{<relref "vitess_deep_dive_session_one.md" >}})
